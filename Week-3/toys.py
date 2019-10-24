@@ -51,8 +51,7 @@ def is_even(a):
 # 'hohoho'
 def string_repeat(phrase, repeat):
 
-    for i in range(repeat):
-        combi_phrase = phrase + phrase
+    combi_phrase = (phrase*repeat)
     #print(str(phrase)*int(repeat))
     # hint: you can add strings together 
     # in order to concatenate them
