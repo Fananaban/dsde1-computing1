@@ -1,5 +1,5 @@
 '''
-test_toys.py
+test_structures.py
 
 Unit tests for structures functions.
 '''
